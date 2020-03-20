@@ -1,0 +1,3 @@
+[submodule "omnixtend"]
+	path = omnixtend
+	url = https://github.com/chipsalliance/omnixtend.git
